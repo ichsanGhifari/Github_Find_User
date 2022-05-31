@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AnotherGitApp</string>
+    <string name="gituser_username" translatable="false">\@usernamepeople</string>
+    <string name="emptyMessage">There is No Favorite User</string>
+</resources>

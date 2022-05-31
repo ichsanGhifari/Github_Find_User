@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rv_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingLeft="15dp"
+    android:paddingTop="15dp"
+    android:paddingRight="15dp"
+    android:paddingBottom="15dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/gituser_img"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_marginEnd="16dp"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/purple_500"
+        tools:src="@tools:sample/avatars"
+        tools:ignore="MissingConstraints"/>
+
+    <TextView
+        android:id="@+id/gituser_name"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/gituser_username"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/gituser_img"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="@string/name"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/gituser_username"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/gituser_username"
+        android:ellipsize="end"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/gituser_img"
+        app:layout_constraintTop_toBottomOf="@+id/gituser_name" />
+
+    <TextView
+        android:id="@+id/gituser_repo"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/detail_repocomnull"
+        android:textSize="14sp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/gituser_img"
+        app:layout_constraintTop_toBottomOf="@+id/gituser_username" />
+
+    <TextView
+        android:id="@+id/gituser_follow"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/follow"
+        android:textSize="14sp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/gituser_img"
+        app:layout_constraintTop_toBottomOf="@+id/gituser_repo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

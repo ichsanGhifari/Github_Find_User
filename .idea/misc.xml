@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/list_favorite.xml" value="0.17395833333333333" />
+        <entry key="..\:/KULIAH/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/list_userfollow.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_baseline_notfound_outline_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_baseline_settings_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_favorite_is_false.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_favorite_is_true.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_favorite_white.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/activity_detail_user.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/activity_favorite.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/fragment_follow.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/list_favorite.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/list_user.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Documents/kampus merdeka/Dicoding/submission3/Submission 2 Fundamental/Submission3Fundamental/app/src/main/res/layout/list_userfollow.xml" value="0.12864583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

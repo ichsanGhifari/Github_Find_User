@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="git_desc">Github Logo</string>
+    <string name="copyright">Copyright 2021 @ghifargip</string>
+    <string name="gituser_name">Nama User</string>
+    <string name="gituser_username">\@usernamethepeople</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Ketik User Github disini</string>
+    <string name="follow">Mengikuti %1$d ● Pengikut %2$d</string>
+    <string name="name">The Github User Name</string>
+    <string name="detail_actionbar">Profil %s</string>
+    <string name="detail_companyandrepo">%1$s | %2$d  Repositori</string>
+    <string name="detail_repocomnull" >%d Repositori</string>
+    <string name="following">MENGIKUTI</string>
+    <string name="followers">PENGIKUT</string>
+    <string name="error_notfound">Pengguna Tidak Ditemukan :(</string>
+    <string name="user_country">Kota/Negara Pengguna</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="error_occured">Maaf, Kesalahan Terjadi</string>
+    <string name="reminder">Pengingat</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="setupreminder">Pengingat Diaktifkan</string>
+    <string name="cancelreminder">Reminder Dibatalkan</string>
+    <string name="notifMessage">Ayo mencari user lainnya dengan Github User App!</string>
+    <string name="emptyMessage">Tidak Ditemukan User Favorit</string>
+    <string name="favorite_user">Pengguna Favorit</string>
+    <string name="choose_theme_text">Pilih thema</string>
+    <string name="change_theme_txt">Ganti Tema</string>
+
+
+
+</resources>

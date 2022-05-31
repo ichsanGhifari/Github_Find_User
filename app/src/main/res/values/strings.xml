@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Github User</string>
+    <string name="git_desc">Github Logo</string>
+    <string name="copyright">Copyright 2021 @ghifargip</string>
+    <string name="gituser_name">Nama User</string>
+    <string name="gituser_username">\@usernamethepeople</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Try to Search Github User</string>
+    <string name="follow">Following %1$d ● Followers %2$d</string>
+    <string name="name">The Github User Name</string>
+    <string name="detail_companyandrepo">%1$s | %2$d Repositories</string>
+    <string name="detail_repocomnull">%d Repositories</string>
+    <string name="detail_actionbar">%s \'s Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="following">FOLLOWING</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="user_country">User Country</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="error_info" translatable="false">Error Message</string>
+    <string name="error_notfound">User Not Found :(</string>
+    <string name="error_occured">Sorry, An Error Occurred</string>
+    <string name="user_type" translatable="false">User</string>
+    <string name="reminder">Reminder</string>
+    <string name="dark_theme">Darktheme</string>
+    <string name="setupreminder">Reminder Set Up</string>
+    <string name="cancelreminder">Reminder Cancelled</string>
+    <string name="notifMessage">Lets find another user with Github User App!</string>
+    <string name="emptyMessage">There is No Favorite User</string>
+    <string name="favorite_user">Favorite Users</string>
+    <string name="choose_theme_text">Choose Theme</string>
+    <string name="change_theme_txt">Change theme</string>
+</resources>
